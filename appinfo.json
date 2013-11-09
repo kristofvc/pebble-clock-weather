@@ -1,12 +1,12 @@
 {
   "uuid": "0465807b-c7d6-43db-af24-8e4cbf4e139f",
-  "shortName": "pebble_clock_wheater",
-  "longName": "pebble_clock_wheater",
-  "companyName": "MakeAwesomeHappen",
+  "shortName": "Clock-wheater",
+  "longName": "Clock - wheater watchface",
+  "companyName": "Kristofvc",
   "versionCode": 1,
   "versionLabel": "1.0.0",
   "watchapp": {
-    "watchface": false
+    "watchface": true
   },
   "appKeys": {
     "dummy": 0
