@@ -25,10 +25,29 @@
         "file": "fonts/Roboto-Condensed.ttf"
       },
       {
-        "characterRegex": "[:0-9]",
         "type": "font",
         "name": "FONT_ROBOTO_BOLD_SUBSET_49",
         "file": "fonts/Roboto-Bold.ttf"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SUN",
+        "file": "images/sun.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_RAIN",
+        "file": "images/rain.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CLOUD",
+        "file": "images/cloud.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SNOW",
+        "file": "images/snow.png"
       }
     ]
   }
